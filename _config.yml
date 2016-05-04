@@ -1,0 +1,28 @@
+name: Emily Elle
+favicon: null
+layout_spectrum: 0.11420399509370327
+typography_spectrum: 0.24027596157975495
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.007434817962348461
+  lightness: 0.047580312471836805
+  saturation: 0.8136362859513611
+  rhythmicContrast: 0.7466608472168446
+purpose: []
